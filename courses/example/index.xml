@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>使用Hugo建立网站 | 江苏有线</title>
+    <link>https://guhao0573.github.io/courses/example/</link>
+      <atom:link href="https://guhao0573.github.io/courses/example/index.xml" rel="self" type="application/rss+xml" />
+    <description>使用Hugo建立网站</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>江苏省广电有线信息网络股份有限公司 因特网接入服务业务许可证编号 苏B2-20090171
+江苏有线JSCN 信息服务业务许可编号 苏B2-20090172 苏ICP备13025736号-1</copyright><lastBuildDate>Mon, 04 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://guhao0573.github.io/images/icon_hu0994ae49855bf57980efa28c3cb41e8d_32512_512x512_fill_lanczos_center_2.png</url>
+      <title>使用Hugo建立网站</title>
+      <link>https://guhao0573.github.io/courses/example/</link>
+    </image>
+    
+    <item>
+      <title>1.1 Markdown简介</title>
+      <link>https://guhao0573.github.io/courses/example/1.1-markdown%E7%AE%80%E4%BB%8B/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0100</pubDate>
+      <guid>https://guhao0573.github.io/courses/example/1.1-markdown%E7%AE%80%E4%BB%8B/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://guhao0573.github.io/img/jzxd/10.jpg&#34; alt=&#34;10&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>1.2 使用VS Code对一个博客进行初步配置</title>
+      <link>https://guhao0573.github.io/courses/example/1.2-%E4%BD%BF%E7%94%A8vs-code%E5%AF%B9%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2%E8%BF%9B%E8%A1%8C%E5%88%9D%E6%AD%A5%E9%85%8D%E7%BD%AE/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0100</pubDate>
+      <guid>https://guhao0573.github.io/courses/example/1.2-%E4%BD%BF%E7%94%A8vs-code%E5%AF%B9%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2%E8%BF%9B%E8%A1%8C%E5%88%9D%E6%AD%A5%E9%85%8D%E7%BD%AE/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://guhao0573.github.io/img/jzxd/11.jpg&#34; alt=&#34;11&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>1.3 网站的进一步配置：副标题、侧边栏</title>
+      <link>https://guhao0573.github.io/courses/example/1.3-%E7%BD%91%E7%AB%99%E7%9A%84%E8%BF%9B%E4%B8%80%E6%AD%A5%E9%85%8D%E7%BD%AE%E5%89%AF%E6%A0%87%E9%A2%98%E4%BE%A7%E8%BE%B9%E6%A0%8F/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0100</pubDate>
+      <guid>https://guhao0573.github.io/courses/example/1.3-%E7%BD%91%E7%AB%99%E7%9A%84%E8%BF%9B%E4%B8%80%E6%AD%A5%E9%85%8D%E7%BD%AE%E5%89%AF%E6%A0%87%E9%A2%98%E4%BE%A7%E8%BE%B9%E6%A0%8F/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://guhao0573.github.io/img/jzxd/12.jpg&#34; alt=&#34;12&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>1.4 创建一篇文章</title>
+      <link>https://guhao0573.github.io/courses/example/1.4-%E5%88%9B%E5%BB%BA%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0100</pubDate>
+      <guid>https://guhao0573.github.io/courses/example/1.4-%E5%88%9B%E5%BB%BA%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://guhao0573.github.io/img/jzxd/13.jpg&#34; alt=&#34;13&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>1.5 撰写Markdown格式的文章</title>
+      <link>https://guhao0573.github.io/courses/example/1.5-%E6%92%B0%E5%86%99markdown%E6%A0%BC%E5%BC%8F%E7%9A%84%E6%96%87%E7%AB%A0/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0100</pubDate>
+      <guid>https://guhao0573.github.io/courses/example/1.5-%E6%92%B0%E5%86%99markdown%E6%A0%BC%E5%BC%8F%E7%9A%84%E6%96%87%E7%AB%A0/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://guhao0573.github.io/img/jzxd/14.jpg&#34; alt=&#34;14&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>1.6 添加“关于我们”等网站页面</title>
+      <link>https://guhao0573.github.io/courses/example/1.6-%E6%B7%BB%E5%8A%A0%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC%E7%AD%89%E7%BD%91%E7%AB%99%E9%A1%B5%E9%9D%A2/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0100</pubDate>
+      <guid>https://guhao0573.github.io/courses/example/1.6-%E6%B7%BB%E5%8A%A0%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC%E7%AD%89%E7%BD%91%E7%AB%99%E9%A1%B5%E9%9D%A2/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://guhao0573.github.io/img/jzxd/15.jpg&#34; alt=&#34;15&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>1.7 清单页面的调整及主题的中文化</title>
+      <link>https://guhao0573.github.io/courses/example/1.7-%E6%B8%85%E5%8D%95%E9%A1%B5%E9%9D%A2%E7%9A%84%E8%B0%83%E6%95%B4%E5%8F%8A%E4%B8%BB%E9%A2%98%E7%9A%84%E4%B8%AD%E6%96%87%E5%8C%96/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0100</pubDate>
+      <guid>https://guhao0573.github.io/courses/example/1.7-%E6%B8%85%E5%8D%95%E9%A1%B5%E9%9D%A2%E7%9A%84%E8%B0%83%E6%95%B4%E5%8F%8A%E4%B8%BB%E9%A2%98%E7%9A%84%E4%B8%AD%E6%96%87%E5%8C%96/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://guhao0573.github.io/img/jzxd/15.jpg&#34; alt=&#34;15&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>1.8 示例主题的配置详解</title>
+      <link>https://guhao0573.github.io/courses/example/1.8-%E7%A4%BA%E4%BE%8B%E4%B8%BB%E9%A2%98%E7%9A%84%E9%85%8D%E7%BD%AE%E8%AF%A6%E8%A7%A3/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0100</pubDate>
+      <guid>https://guhao0573.github.io/courses/example/1.8-%E7%A4%BA%E4%BE%8B%E4%B8%BB%E9%A2%98%E7%9A%84%E9%85%8D%E7%BD%AE%E8%AF%A6%E8%A7%A3/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://guhao0573.github.io/img/jzxd/16.jpg&#34; alt=&#34;16&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://guhao0573.github.io/img/jzxd/17.jpg&#34; alt=&#34;17&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>1.9 生成网站及后续任务</title>
+      <link>https://guhao0573.github.io/courses/example/1.9-%E7%94%9F%E6%88%90%E7%BD%91%E7%AB%99%E5%8F%8A%E5%90%8E%E7%BB%AD%E4%BB%BB%E5%8A%A1/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0100</pubDate>
+      <guid>https://guhao0573.github.io/courses/example/1.9-%E7%94%9F%E6%88%90%E7%BD%91%E7%AB%99%E5%8F%8A%E5%90%8E%E7%BB%AD%E4%BB%BB%E5%8A%A1/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://guhao0573.github.io/img/jzxd/18.jpg&#34; alt=&#34;18&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2.1 Page Bundle页面组织</title>
+      <link>https://guhao0573.github.io/courses/example/2.1-page-bundle%E9%A1%B5%E9%9D%A2%E7%BB%84%E7%BB%87/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0100</pubDate>
+      <guid>https://guhao0573.github.io/courses/example/2.1-page-bundle%E9%A1%B5%E9%9D%A2%E7%BB%84%E7%BB%87/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://guhao0573.github.io/img/jzxd/19.jpg&#34; alt=&#34;19&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://guhao0573.github.io/img/jzxd/20.jpg&#34; alt=&#34;20&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2.2 如何实现站内搜索</title>
+      <link>https://guhao0573.github.io/courses/example/2.2-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%AB%99%E5%86%85%E6%90%9C%E7%B4%A2/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0100</pubDate>
+      <guid>https://guhao0573.github.io/courses/example/2.2-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%AB%99%E5%86%85%E6%90%9C%E7%B4%A2/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://guhao0573.github.io/img/jzxd/21.jpg&#34; alt=&#34;21&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>3.1 config和languages的配置</title>
+      <link>https://guhao0573.github.io/courses/example/3.1-config%E5%92%8Clanguages%E7%9A%84%E9%85%8D%E7%BD%AE/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0100</pubDate>
+      <guid>https://guhao0573.github.io/courses/example/3.1-config%E5%92%8Clanguages%E7%9A%84%E9%85%8D%E7%BD%AE/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://guhao0573.github.io/img/jzxd/1.jpg&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>3.2 params的配置</title>
+      <link>https://guhao0573.github.io/courses/example/3.2-params%E7%9A%84%E9%85%8D%E7%BD%AE/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0100</pubDate>
+      <guid>https://guhao0573.github.io/courses/example/3.2-params%E7%9A%84%E9%85%8D%E7%BD%AE/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://guhao0573.github.io/img/jzxd/2.jpg&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>3.3 menus的配置</title>
+      <link>https://guhao0573.github.io/courses/example/3.3-menus%E7%9A%84%E9%85%8D%E7%BD%AE/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0100</pubDate>
+      <guid>https://guhao0573.github.io/courses/example/3.3-menus%E7%9A%84%E9%85%8D%E7%BD%AE/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://guhao0573.github.io/img/jzxd/3.jpg&#34; alt=&#34;3&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>3.4 首页小工具的介绍</title>
+      <link>https://guhao0573.github.io/courses/example/3.4-%E9%A6%96%E9%A1%B5%E5%B0%8F%E5%B7%A5%E5%85%B7%E7%9A%84%E4%BB%8B%E7%BB%8D/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0100</pubDate>
+      <guid>https://guhao0573.github.io/courses/example/3.4-%E9%A6%96%E9%A1%B5%E5%B0%8F%E5%B7%A5%E5%85%B7%E7%9A%84%E4%BB%8B%E7%BB%8D/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://guhao0573.github.io/img/jzxd/4.jpg&#34; alt=&#34;4&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>3.5 文章的配置</title>
+      <link>https://guhao0573.github.io/courses/example/3.5-%E6%96%87%E7%AB%A0%E7%9A%84%E9%85%8D%E7%BD%AE/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0100</pubDate>
+      <guid>https://guhao0573.github.io/courses/example/3.5-%E6%96%87%E7%AB%A0%E7%9A%84%E9%85%8D%E7%BD%AE/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://guhao0573.github.io/img/jzxd/5.jpg&#34; alt=&#34;5&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://guhao0573.github.io/img/jzxd/6.jpg&#34; alt=&#34;6&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>3.6 主题加速</title>
+      <link>https://guhao0573.github.io/courses/example/3.6-%E4%B8%BB%E9%A2%98%E5%8A%A0%E9%80%9F/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0100</pubDate>
+      <guid>https://guhao0573.github.io/courses/example/3.6-%E4%B8%BB%E9%A2%98%E5%8A%A0%E9%80%9F/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://guhao0573.github.io/img/jzxd/7.jpg&#34; alt=&#34;7&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>3.7 文档格式的页面</title>
+      <link>https://guhao0573.github.io/courses/example/3.7-%E6%96%87%E6%A1%A3%E6%A0%BC%E5%BC%8F%E7%9A%84%E9%A1%B5%E9%9D%A2/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0100</pubDate>
+      <guid>https://guhao0573.github.io/courses/example/3.7-%E6%96%87%E6%A1%A3%E6%A0%BC%E5%BC%8F%E7%9A%84%E9%A1%B5%E9%9D%A2/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://guhao0573.github.io/img/jzxd/8.jpg&#34; alt=&#34;8&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://guhao0573.github.io/img/jzxd/9.jpg&#34; alt=&#34;9&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
